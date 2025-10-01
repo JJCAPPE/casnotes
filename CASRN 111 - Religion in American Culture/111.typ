@@ -24,7 +24,7 @@
   text_font: "STIX Two Text",
   code_font: "Cascadia Mono",
   accent: "#DC143C", // Crimson red - change to your preferred color
-  h1-prefix: "Lecture",
+  h1-prefix: "",
   colortab: false,
 )
 
@@ -151,44 +151,68 @@ It presents *Carl Schmitt’s* (note spelling) early-20th-century critique of *l
 #align(center)[#muchpdf(inter_caetera_pdf, width: 90%)]
 
 
-= Direct conceptual links (Inter Caetera - Schmitt's argument)
+== Direct conceptual links (Inter Caetera - Schmitt's argument)
 
 - Sovereign decision vs. papal decision
   - Schmitt: "Sovereign is he who decides on the exception."
   - Inter Caetera is a decision that creates a new legal-political reality (a pole-to-pole demarcation line; exclusive titles; automatic excommunication for violators). A textbook instance of sovereignty exercised through political theology: a theological office constituting geopolitical order.
-  - *Source: Inter Caetera May 4 1493*
 
 - Norms in "normal time" vs. the "exception"
   - Constitutions bind in normalcy, but decisive power appears in crises. The bull acknowledges pre-existing treaties/rights yet overrides ordinary constraints by drawing a new line and granting dominion "with full, free and all-encompassing power," backed by spiritual sanction. Legal form plus decisive act—Schmitt's point in motion.
-  - *Source: Inter Caetera May 4 1493*
 
 - Friend/enemy construction
   - The bull frames non-Christian peoples as "barbarous nations" to be subdued and brought (back) to the faith—a categorical boundary that legitimates domination. A historical case of political identity forged through a civilizational friend/enemy split.
-  - *Source: Inter Caetera May 4 1493*
 
 - Political theology → secular afterlives
   - The "Doctrine of Discovery," born from these bulls, migrates into secular law (e.g., U.S. property jurisprudence from 1823 to 2005). A theologically grounded sovereign act becomes a juridical doctrine that structures modern sovereignty/territorial title—Schmitt's “secularized theological concepts.”
-  - *Source: NPR*
 
 - Repudiation and the durability of the political
   - The Vatican's 2023 repudiation condemns the mindset of superiority underwriting the bulls. Schmitt would ask: Does moral repudiation dissolve the power effects they set in motion (titles, borders, legal precedents), or does the friend/enemy logic and the sovereign's decisive trace persist beneath new normative language?
-  - *Source: NPR*
 
-= Seminar discussion prompts
+== Seminar discussion prompts
 
 - Founding through exception: Does Inter Caetera exemplify a founding exception (a decision constituting a legal space) more than a rule-application? What would “constitutionalism” mean in 1493 under papal plenitude of power?
-  - *Source: Inter Caetera May 4 1493*
 
 - From bulls to case law: How does the “Doctrine of Discovery” illustrate Schmitt's political theology—the migration of sacral authority into the invisible axioms of modern property and state sovereignty? Where, today, do we still rely on such unseen founding decisions?
-  - *Source: NPR*
 
 - Friend/enemy and civilizing discourse: In what ways do the bull's categories (Christian/barbarian) pre-configure a friend/enemy world that later liberalism claims to transcend? Did liberalism transform that distinction or relabel it (e.g., “civilized/uncivilized,” “developed/underdeveloped”)?
-  - *Source: Inter Caetera May 4 1493*
 
 - Repudiation vs. material redress: If the Church repudiates the doctrine in 2023, what decisions would be required (by Church or states) to undo its juridical afterlife? Is repudiation a normative gesture or a sovereign counter-decision?
-  - *Source: NPR*
 
 - Liberalism's “cover” question: Schmitt accuses liberalism of masking power with procedure. Is the NPR narrative of apology/repudiation an example of norm talk that leaves power relations intact—or is it a meaningful re-politicization that could enable new decisions?
-  - *Source: NPR*
 
+= John Winthrop, A Model of Christian Charity
 
+- *Occasion & aim:* A lay sermon delivered aboard the Arbella as the Puritan settlers sailed to New England. Winthrop explains how the community must live so the colony survives and honors God.
+
+- *Theological frame:* God ordains inequality (some rich/poor, powerful/weak) to create opportunities for charity, mercy, and mutual dependence. Difference isn't a flaw; it's the stage for Christian love.
+
+- *Core ethic—“justice and mercy”:*
+
+- *Justice:* keep covenants, repay debts, uphold order.
+
+- *Mercy/charity:* go beyond strict right—give, lend, and forgive when a neighbor needs help (even when risky), imitate Christ's generosity.
+
+- *Rules for giving & lending:* Distinguishes giving (to the truly needy) and lending (to those likely to repay), but urges liberal hearts: prioritize need over profit, community over self, and be willing to risk loss for a brother's good.
+
+  - *Bond of perfection—Christian love:* Love is the glue of the body politic. The community is like one body: if one member suffers, all suffer; if one rejoices, all rejoice. True love makes hard duties sweet and sustainable.
+
+- *Covenant & accountability:* The settlers enter a covenant with God—obedience brings blessing, disobedience brings judgment. Their success is not just practical; it is covenantal faithfulness.
+
+- *“City upon a hill”:* Because the world will watch them, their conduct must be exemplary. If they live this model of charity, others will glorify God; if they fail, they invite public shame and divine displeasure.
+
+- *Political-social vision:* Hierarchy remains, but softened by mutual care. Magistrates and people are bound by reciprocal duties; private interests must yield to public good when necessary.
+
+== Links to Schmitt and the bulls
+
+=== Founding by covenant
+
+Winthrop’s sermon creates a community by a choice: the settlers agree before God to live by “justice and mercy.” That decision founds the rules. In Schmitt’s terms, a decision makes the order. Compared to Inter caetera, which gives power from pope to crown, Winthrop builds a people from within—using shared belief and duty to organize daily life (who gives, who lends, who sacrifices for the common good).
+
+=== “City upon a hill” = making a real “we”
+
+The famous image forms a tight-knit ‘we’ under the world’s gaze. Schmitt says democracy needs a concrete people, not just procedures; Winthrop engineers that people with shared faith, mutual expectations, and roles (rich/poor, leaders/people) joined by charity. Inside: care and discipline. Outside: clear boundaries (not part of the covenant). Put next to Inter caetera and Sublimis Deus: Winthrop gives the moral script for settlers; the bulls give legal cover (and in Sublimis Deus, a claimed limit) even as expansion continues.
+
+=== Norms both restrain and permit
+
+Winthrop’s rules for giving, lending, and forgiving really shape behavior—they aren’t just talk—so this pushes back on Schmitt’s idea that norms are only a mask. But the same covenant also permits hard choices when survival is at stake (public good over private right, obedience in crisis). In calm times, norms constrain; in emergencies, they authorize decisive action. Read together: Inter caetera shows a raw founding decision; Winthrop shows how pious norms can humanize hierarchy and power settlement. Norm and decision arrive fused—charity softens rule, covenant binds consciences, and both can be used to expand, defend, or suspend ordinary claims when the community deems it necessary.
