@@ -28,70 +28,33 @@
   colortab: false,
 )
 
-// Your content starts here
-= Introduction
 
-Welcome to Religion in American Culture (CASRN 111)!
+= Schmitt
 
-// Example of using the template features:
+- *Three parallel critiques of the West's status quo (liberal capitalist democracy):*
 
-#definition("Example Definition")[
-  This is an example definition box. You can use it to highlight important definitions in your notes.
-]
-
-#example("Example Usage")[
-  This is an example box showing how to use various features of the template.
-]
-
-#note("Important Note")[
-  This is a note box for highlighting important information.
-]
-
-// Example of mathematical content
-Consider the equation:
-$ f(x) = x^2 + 2x + 1 $
-
-// Example of code
-Here's some sample code:
-```python
-def hello_world():
-    print("Hello, Religion in American Culture!")
-```
-
-// Add your lecture content below this line
-
-Here’s a clear, self-contained guide to the episode you pasted—what it argues, how it builds the case, and where the pressure points are.
-
-= What the episode is doing (in one line)
-
-It presents *Carl Schmitt’s* (note spelling) early-20th-century critique of *liberalism*, arguing that liberalism’s promise of rule-by-reason, rights, and constitutional norms is an *illusion* that masks the ever-present, decisive power of a *sovereign* and the reality that politics is ultimately about *friend vs. enemy*.
-
-= Quick orientation
-
-- *Three parallel critiques of the West’s status quo (liberal capitalist democracy):*
-
-  1. *John Dewey* – criticizes traditional democracy’s practices.
+  1. *John Dewey* – criticizes traditional democracy's practices.
   2. *Antonio Gramsci* – criticizes *capitalism*.
-  3. *Carl Schmitt* – criticizes *liberalism* (the show’s focus).
+  3. *Carl Schmitt* – criticizes *liberalism* (the show's focus).
 
-- *Liberalism here* ≠ “U.S. left vs. right.” It’s the Enlightenment project: limited government, rights, separation of powers, parliamentary rule, rational public debate, markets.
+- *Liberalism here* ≠ “U.S. left vs. right.” It's the Enlightenment project: limited government, rights, separation of powers, parliamentary rule, rational public debate, markets.
 
-= Key definitions (as used in the episode)
+== Key definitions (as used in the episode)
 
 - *Pre-liberal*: Political legitimacy grounded in revelation, tradition, and theocratic/monarchical authority.
 - *Liberalism*: Enlightenment method for legitimacy grounded in *reason*, *secular scholarship*, *rights*, *parliamentary procedures*, and *constitutional constraint*.
 - *Sovereign*: The actor who *decides* when the normal legal order is suspended—who decides on the *exception*.
 - *State of exception*: An *emergency* in which constitutional/normal rules are set aside for decisive action.
-- *Normativism* (Schmitt’s term of critique): Faith that *rules/constitutions* can bind politics in all contingencies.
+- *Normativism* (Schmitt's term of critique): Faith that *rules/constitutions* can bind politics in all contingencies.
 - *The political* (for Schmitt): Defined by the *friend/enemy distinction*—the basic grouping that can escalate to existential conflict.
-- *Post-liberal*: A perspective (Schmitt’s) that regards liberalism’s self-description as *utopian* and seeks to describe the *real* logic of political power.
+- *Post-liberal*: A perspective (Schmitt's) that regards liberalism's self-description as *utopian* and seeks to describe the *real* logic of political power.
 
-= Schmitt’s argument—step-by-step map
+== Schmitt's argument—step-by-step map
 
 1. *Liberalism promised a break with the violent past.*
   Replace revelation and absolute rulers with *reason*, *debate*, *rights*, and *checks/balances*.
 
-2. *But history didn’t change as promised.*
+2. *But history didn't change as promised.*
   Despite liberal norms, the 19th–20th centuries see *dictatorships, wars, and instability*. For Schmitt, that gap between *promise* and *reality* is the core indictment.
 
 3. *The “talk-it-out” premise is false at the limit.*
@@ -101,10 +64,10 @@ It presents *Carl Schmitt’s* (note spelling) early-20th-century critique of *l
   Political identities form *against* an opposed other; the political is the possibility of *conflict*. Tolerance works during *normalcy*, but *irreconcilable* differences recur.
 
 5. *The sovereign never left; liberalism just hides it.*
-  Constitutions don’t remove decisive power; they function *during normal times*. When a true crisis hits, officials *act first*, legalize later: the *exception* exposes where power really sits.
+  Constitutions don't remove decisive power; they function *during normal times*. When a true crisis hits, officials *act first*, legalize later: the *exception* exposes where power really sits.
 
 6. *Normativism is an illusion (and can be dangerous).*
-  You can’t pre-write rules for *every contingency*. Pretending you can both *weakens* response capacity and *obscures* who will actually decide when rules break.
+  You can't pre-write rules for *every contingency*. Pretending you can both *weakens* response capacity and *obscures* who will actually decide when rules break.
 
 7. *Liberalism breeds apathy and identity vacuum.*
   By recoding politics as a *managed, professionalized* arena, citizens drift into *spectatorship* and *consumer identities*. This hollowness invites *strong-identity movements* to fill the void.
@@ -113,27 +76,27 @@ It presents *Carl Schmitt’s* (note spelling) early-20th-century critique of *l
   Schmitt insists they can *conflict*: democracy requires a *demos* (a concrete “we”), which presupposes *boundaries* (friend/enemy). Liberal universalism dissolves the “we,” undermining democratic decision.
 
 9. *Inevitability of the exception and capture.*
-  In a crisis (or manufactured crisis), actors can *assume sovereign power* “to save the constitution.” Liberal societies are *vulnerable* if they won’t admit this mechanism exists.
+  In a crisis (or manufactured crisis), actors can *assume sovereign power* “to save the constitution.” Liberal societies are *vulnerable* if they won't admit this mechanism exists.
 
-10. *Why fascism appealed (Schmitt’s own dark turn).*
-  If you reject liberal constraints as illusions, the argument for a *decisive, identity-forging* regime can seem “rational” to some. The episode bluntly notes Schmitt’s *Nazi, antisemitic* alignment—key for assessing his project.
+10. *Why fascism appealed (Schmitt's own dark turn).*
+  If you reject liberal constraints as illusions, the argument for a *decisive, identity-forging* regime can seem “rational” to some. The episode bluntly notes Schmitt's *Nazi, antisemitic* alignment—key for assessing his project.
 
-= Core claims distilled
+== Core claims distilled
 
-- Liberalism’s *self-image* (rule of norms, rational debate, pluralism) *fails* at the decisive moments that actually *constitute* politics.
+- Liberalism's *self-image* (rule of norms, rational debate, pluralism) *fails* at the decisive moments that actually *constitute* politics.
 - The *essence* of politics is *decision* and *distinction* (friend/enemy), not deliberative harmony.
 - The *sovereign decision on the exception* is the hidden heart of modern states, liberal or not.
 - *Constitutions* regulate normal time; *crises* reveal real power.
 - Liberal societies risk becoming *weak, identity-thin, and manipulable*.
 
-= Practical takeaways for understanding Schmitt
+== Practical takeaways for understanding Schmitt
 
 - Ask of any system: *Who decides the exception? On what authority? With what limits, oversight, and exit path?*
 - Distinguish *normal time* from *exception time* in institutional design.
-- Treat *identity formation* as a real variable in political stability; procedures alone won’t substitute for a shared “we.”
+- Treat *identity formation* as a real variable in political stability; procedures alone won't substitute for a shared “we.”
 - Beware *apathy through proceduralism*—but also beware *romanticizing decisiveness* that erodes rights.
 
-= Mini-glossary (fast recall)
+== Mini-glossary (fast recall)
 
 - *Sovereign*: The one who decides on the exception.
 - *State of exception*: Suspension of the normal legal order in an emergency.
@@ -207,12 +170,32 @@ It presents *Carl Schmitt’s* (note spelling) early-20th-century critique of *l
 
 === Founding by covenant
 
-Winthrop’s sermon creates a community by a choice: the settlers agree before God to live by “justice and mercy.” That decision founds the rules. In Schmitt’s terms, a decision makes the order. Compared to Inter caetera, which gives power from pope to crown, Winthrop builds a people from within—using shared belief and duty to organize daily life (who gives, who lends, who sacrifices for the common good).
+Winthrop's sermon creates a community by a choice: the settlers agree before God to live by “justice and mercy.” That decision founds the rules. In Schmitt's terms, a decision makes the order. Compared to Inter caetera, which gives power from pope to crown, Winthrop builds a people from within—using shared belief and duty to organize daily life (who gives, who lends, who sacrifices for the common good).
 
 === “City upon a hill” = making a real “we”
 
-The famous image forms a tight-knit ‘we’ under the world’s gaze. Schmitt says democracy needs a concrete people, not just procedures; Winthrop engineers that people with shared faith, mutual expectations, and roles (rich/poor, leaders/people) joined by charity. Inside: care and discipline. Outside: clear boundaries (not part of the covenant). Put next to Inter caetera and Sublimis Deus: Winthrop gives the moral script for settlers; the bulls give legal cover (and in Sublimis Deus, a claimed limit) even as expansion continues.
+The famous image forms a tight-knit ‘we' under the world's gaze. Schmitt says democracy needs a concrete people, not just procedures; Winthrop engineers that people with shared faith, mutual expectations, and roles (rich/poor, leaders/people) joined by charity. Inside: care and discipline. Outside: clear boundaries (not part of the covenant). Put next to Inter caetera and Sublimis Deus: Winthrop gives the moral script for settlers; the bulls give legal cover (and in Sublimis Deus, a claimed limit) even as expansion continues.
 
 === Norms both restrain and permit
 
-Winthrop’s rules for giving, lending, and forgiving really shape behavior—they aren’t just talk—so this pushes back on Schmitt’s idea that norms are only a mask. But the same covenant also permits hard choices when survival is at stake (public good over private right, obedience in crisis). In calm times, norms constrain; in emergencies, they authorize decisive action. Read together: Inter caetera shows a raw founding decision; Winthrop shows how pious norms can humanize hierarchy and power settlement. Norm and decision arrive fused—charity softens rule, covenant binds consciences, and both can be used to expand, defend, or suspend ordinary claims when the community deems it necessary.
+Winthrop's rules for giving, lending, and forgiving really shape behavior—they aren't just talk—so this pushes back on Schmitt's idea that norms are only a mask. But the same covenant also permits hard choices when survival is at stake (public good over private right, obedience in crisis). In calm times, norms constrain; in emergencies, they authorize decisive action. Read together: Inter caetera shows a raw founding decision; Winthrop shows how pious norms can humanize hierarchy and power settlement. Norm and decision arrive fused—charity softens rule, covenant binds consciences, and both can be used to expand, defend, or suspend ordinary claims when the community deems it necessary.
+
+=== Notes
+
+- Justice and mercy as qualities to maintain the divine Inequality, not a pathway to equality.
+
+= John Edwards, Revivals of Religion
+
+Edwards is writing during the Great Awakening. People are having intense religious experiences—crying, shaking, shouting, big crowds. Some say it's fake or dangerous. Edwards says: strong feelings don't prove anything by themselves, and they don't disprove anything either. What counts is the result over time: more honesty, humility, kindness, love of God and neighbor, better family life, less vice. He tells pastors and people: encourage the good, correct the bad. Don't shut the revival down, but don't let pride, chaos, or harsh judging take over. True revival lifts up Christ, obeys Scripture, produces steady, humble lives, and actually strengthens churches and public morals.
+
+== Connections to earlier stuff:
+
+- *Schmitt:* He thinks rules often hide real power and only “decisive” acts matter. Edwards shows the opposite possibility: clear rules/tests (fruits, humility, order) can guide intense moments and make them genuinely constructive, not just raw decision or chaos.
+
+- *Inter caetera (1493):* The bull uses sacred authority to authorize conquest. Edwards uses sacred authority to renew communities from within—no borders, no land grants, just moral testing and pastoral care.
+
+- *Sublimis Deus (1537):* A norm that tries to limit abuse in empire. Like that, Edwards shows how norms (tests of true religion) can curb excess and protect people, not only justify power.
+
+- *Winthrop (“Model of Christian Charity”):* Winthrop builds a covenant people by charity and duty; Edwards recharges that people a century later by conversion and fruits, so both aim at a tight, moral community.
+
+- *Ghost Dance:* Both are mass religious movements. Edwards's approach is to shepherd a revival with tests and teaching; U.S. authorities suppressed the Ghost Dance as a threat. That contrast shows how rules and patient guidance can contain intensity instead of turning it into conflict.
